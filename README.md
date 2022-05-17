@@ -4,7 +4,7 @@
 
 -✔ AEstudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi com concusão em 2023.
 
-- 📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR e curso ONE - Oracle Next Education da Alura.
+- 📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR, curso ONE - Oracle Next Education da Alura e BootCamp DIO - Digital Innovation One, TQI Fullstack Developer.
 
 - 🌱 Atualmente estou aprendendo **JavaScript**
 
