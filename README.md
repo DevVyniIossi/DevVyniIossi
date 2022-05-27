@@ -1,24 +1,26 @@
 <h1 align="center">Oi 👋, me chamo Vynicius Iossi</h1>
 <h3 align="center">Apaixonado por análise e desenvolvimento de sistemas</h3>
 
+# 💫Sobre mim :
+-✔ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi com concusão em 2023.
 
--✔ AEstudante de **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi com concusão em 2023.
+-📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR, curso ONE - Oracle Next Education da Alura e BootCamp DIO - Digital Innovation One, TQI Fullstack Developer.
 
-- 📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR, curso ONE - Oracle Next Education da Alura e BootCamp DIO - Digital Innovation One, TQI Fullstack Developer.
+-🌱 Atualmente estou aprendendo JavaScript
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
-
-- 💬 Me pergunte sobre **Excel, HTML, CSS e SQL**
+-💬 Me pergunte sobre Excel, HTML, CSS e SQL
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vyniciusiossi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vyniciusiossi/" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/iossivy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/iossivy/" height="30" width="40" /></a>
-</p>
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iossivy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyniciusiossi) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=DevVyniIossi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevVyniIossi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevVyniIossi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iossivy&show_icons=true&locale=en&layout=compact" alt="iossivy" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=DevVyniIossi&icon=0&color=0)](https://visitcount.itsvg.in)
 
