@@ -2,11 +2,11 @@
 <h3 align="center">Apaixonado por análise e desenvolvimento de sistemas</h3>
 
 # 💫Sobre mim :
--✔ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi com concusão em 2023.
+-✔ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER com conclusão em 2023.
 
 -📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR, curso ONE - Oracle Next Education da Alura e BootCamp DIO - Digital Innovation One, TQI Fullstack Developer.
 
--🌱 Atualmente estou aprendendo JavaScript
+-🌱 Atualmente estou aprendendo Java.
 
 -💬 Me pergunte sobre Excel, HTML, CSS e SQL
 
