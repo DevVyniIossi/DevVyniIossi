@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por análise e desenvolvimento de sistemas</h3>
 
 # 💫Sobre mim :
--✔ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER com conclusão em 2023.
+-✔ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional - UNINTER com conclusão em 12/2024.
 
 -📚 Estudando cursos como Desenvolvedor FULLSTACK - ProgramadorBR, curso ONE - Oracle Next Education da Alura e BootCamp DIO - Digital Innovation One, TQI Fullstack Developer.
 
